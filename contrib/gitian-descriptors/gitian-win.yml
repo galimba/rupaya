@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/eastcoastcrypto/Rupaya"
+- "url": "https://github.com/rupaya-project/rupaya"
   "dir": "rupaya"
 files: []
 script: |
